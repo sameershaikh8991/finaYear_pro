@@ -1,0 +1,176 @@
+{
+	"intents":[
+		{
+			"tag":"greeting",
+			"patterns":["hi","hello","hey","wake up","are you there"
+
+			],
+			"respones":[
+				"Hello","How are you", "always for you"
+			]
+		},
+		{
+			"tag":"goodbye",
+			"patterns":["bye","goodbye","see you later","exit","quit","good to see you"
+
+			],
+			"respones":[
+				"bye","have nice day", "thanks for using me"
+			]
+		},
+
+		{
+			"tag":"time",
+			"patterns":["what is time","time right now","time","what's time"],
+			"respones":["time"]
+		},
+		{
+			"tag":"date",
+			"patterns":["what is date","date right now","date","what's date"],
+			"respones":["date"]
+		},
+		{
+			"tag":"wiki",
+			"patterns":["what is","who is","wiki","how to ","wikipedia"],
+			"respones":["wiki"]
+		},
+		{
+			"tag":"google",
+			"patterns":["open google","google","internet","search ","wikipedia"],
+			"respones":["www.google.com","www.google.co.in"]
+		},
+		{
+			"tag":"youtube",
+			"patterns":["youtube","open youtube","utube"],
+			"respones":["www.youtube.com"]
+		},
+		{
+			"tag":"instagram",
+			"patterns":["instagram","open instagram","insta"],
+			"respones":["www.instagram.com"]
+		},
+		{
+			"tag":"gmail",
+			"patterns":["gmail","open gmail","mail","email","show my mail"],
+			"respones":["www.gmail.com"]
+		},
+		{
+			"tag":"timepass",
+			"patterns":["i am bored","bored","bore"],
+			"respones":["www.instagram.com"]
+		},
+		{
+			"tag":"flipcoin",
+			"patterns":["flip coin","coin","coin flip"],
+			"respones":["tail","head"]
+		},
+		{
+			"tag":"volumeup",
+			"patterns":["volume up","up volume","increase volume","increase sound"],
+			"respones":["volumeup"]
+		},
+		{
+			"tag":"volumedown",
+			"patterns":["volume down","down volume","decrease volume","decrease sound"],
+			"respones":["volumedown"]
+		},
+		{
+			"tag":"fileconvert",
+			"patterns":["convert file","file convert","word to pdf","file conversion"],
+			"respones":["www.ilovepdf.com"]
+		},
+		{
+			"tag":"map",
+			"patterns":["show map","map"],
+			"respones":["map"]
+		},
+		{
+			"tag":"createfolder",
+			"patterns":["create folder","make folder"],
+			"respones":["createfolder"]
+		},
+		{
+			"tag":"password",
+			"patterns":["some me some password","suggest me password","pasward"],
+			"respones":["password"]
+		},
+		{
+			"tag":"screenshot",
+			"patterns":["take screenshot","screenshot","click screenshot","screen shot"],
+			"respones":["screenshot"]
+		},
+		{
+			"tag":"createtodo",
+			"patterns":["create todolist","todolist","todo","create todo","create to do ","create to do list"],
+			"respones":["createtodo"]
+		},
+		{
+			"tag":"showtodo",
+			"patterns":["show todolist","show todo","open todo","show to do","to do list"],
+			"respones":["showtodo"]
+		},
+		{
+			"tag":"news",
+			"patterns":["latest news","news","today news","headlines today","headline"],
+			"respones":["news"]
+		},
+		{
+			"tag":"getdirection",
+			"patterns":["get direction","direction","show path","show road"],
+			"respones":["getdirection"]
+		},
+		{
+			"tag":"downloadutubevid",
+			"patterns":["download youtube video","utube video download","youtube video download","download video"],
+			"respones":["downloadutubevid"]
+		},
+		{
+			"tag":"hungry",
+			"patterns":["I'am hungry"," i feel hungry","i like to eat something"],
+			"respones":["ok sir"]
+		},
+		{
+			"tag":"googlesearch",
+			"patterns":["search on google","how to","what is"],
+			"respones":["googlesearch"]
+		},
+		{
+			"tag":"sendemail",
+			"patterns":["send email","send mail to  ","i like to send email"],
+			"respones":["email"]
+		},
+		{
+			"tag":"remind",
+			"patterns":["remember","remind","remind me"],
+			"respones":["remind"]
+		},
+		{
+			"tag":"showremind",
+			"patterns":["show remember","tell remide","remind"],
+			"respones":["showremind"]
+		},
+
+		{
+			"tag":"mword",
+			"patterns":["create word file","create docx","new word file"],
+			"respones":["mword"]
+		},
+		{
+			"tag":"mppt",
+			"patterns":["create ppt file","create ppt","new ppt file","create power point"],
+			"respones":["mppt"]
+		},
+		{
+			"tag":"mexcel",
+			"patterns":["create excel file","create excel","new excel file"],
+			"respones":["mexcel"]
+		},
+		{
+			"tag":"alarm",
+			"patterns":["set alarm","alarm"],
+			"respones":["alarm"]
+		}
+
+	]
+
+}

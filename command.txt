@@ -1,0 +1,9 @@
+
+        MACTH KEYWORD                     TAKS
+--------------------------------------------------------
+open google/google 				| open google
+open YouTube/youtube			| open youtube
+take screenshot/screenshot		| taking screenshot
+who create you                  |
+who are you                     | ai name
+goodbye(for stop AI)            | close application / exit from app
